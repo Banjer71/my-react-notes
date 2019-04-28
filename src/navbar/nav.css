@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+
+
+nav {
+    height: 60px;
+    padding: 10px;
+    border: 1px solid rgb(124, 187, 255);
+    background-color:  rgb(124, 187, 255);
+}
+
+.main-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-logo img {
+    width: 60px;
+    animation: App-logo-spin infinite 20s linear;
+    /* pointer-events: none; */
+}
+
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+.logo-text  {
+    text-align: center;
+    font-family: 'Bungee';
+}
+
+
+
+
+
+
+@media only screen and (min-width: 600px) {
+   
+    .logo-text  {
+        font-size: 1.8rem;
+    }
+  }
