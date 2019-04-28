@@ -17,7 +17,6 @@ nav {
 .main-logo img {
     width: 60px;
     animation: App-logo-spin infinite 20s linear;
-    /* pointer-events: none; */
 }
 
 @keyframes App-logo-spin {
