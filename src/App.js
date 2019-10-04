@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 
 import Main from './components/Main'
-//import User from './User'
-//import ButtonChange from './Button_change'
+
 import './App.css';
 import Navbar from './navbar/Navbar';
 
@@ -20,6 +19,5 @@ class App extends Component {
     );
   }
 }
-
 
 export default App;

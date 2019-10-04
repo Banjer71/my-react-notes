@@ -6,6 +6,22 @@ class User extends Component {
         this.state = { isLastNameVisible: true};
     }
 
+    componentDidMount() {
+        
+            const json = localStorage.getItem('isLastNameVisible');
+            const status = JSON.parse(json) 
+            if (!status) {
+                this.setState(() => ({isLastNameVisible: status}))
+            }
+        
+        
+    };
+
+    componentDidUpdate(prevState) {
+        if (prevState.isLastNameVisible !== this.state.isLastNameVisible)
+        localStorage.setItem('isLastNameVisible', this.state.isLastNameVisible)
+    };
+
     toggleLastName() {
         this.setState({isLastNameVisible: !this.state.isLastNameVisible});
     }

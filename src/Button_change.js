@@ -7,6 +7,19 @@ class Button_change extends Component {
         this.state = {count: 0}
     }
 
+    componentDidMount() {
+        const num = localStorage.getItem('count');
+        const count = parseInt(num, 10);
+        if(!isNaN(count)) {
+            this.setState(() => ({count}))
+        }
+    };
+
+    componentDidUpdate(prevState) {
+        if (prevState.count !== this.state.count) {
+            localStorage.setItem('count', this.state.count);
+        }
+    }
 
     handleClick() {
         return  this.setState(prevState => {
