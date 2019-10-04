@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/my-react-notes/static/js/runtime~main.e1d76d61.js"
   },
   {
-    "revision": "6ac8bf33a09b5829fdb6",
-    "url": "/my-react-notes/static/js/main.84f0b6d8.chunk.js"
+    "revision": "b397815d76825dfa4221",
+    "url": "/my-react-notes/static/js/main.60744939.chunk.js"
   },
   {
     "revision": "bbf7f360499be5fc0af6",
     "url": "/my-react-notes/static/js/2.1de47be2.chunk.js"
   },
   {
-    "revision": "6ac8bf33a09b5829fdb6",
-    "url": "/my-react-notes/static/css/main.52ed0784.chunk.css"
+    "revision": "b397815d76825dfa4221",
+    "url": "/my-react-notes/static/css/main.0dbb096c.chunk.css"
   },
   {
-    "revision": "399415ad26dec6c6ad033ebda6be5d07",
+    "revision": "29387f97c9e74c69b1a427b849510b35",
     "url": "/my-react-notes/index.html"
   }
 ];
