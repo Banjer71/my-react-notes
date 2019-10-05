@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from './Card';
 import ButtonChange from './Button_change';
-import User from './User';
+import Toggle from './Toggle';
 
 function Main() {
 	return (
@@ -13,7 +13,7 @@ function Main() {
 
 			<Card github="https://www.davidenaccarati.com">
 				<h2>Toggle Button</h2>
-				<User firstName="Davide" lastName="Naccarati" />
+				<Toggle firstName="Davide" lastName="Naccarati" />
 			</Card>
 
 			<Card github="">
