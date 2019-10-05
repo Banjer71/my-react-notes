@@ -1,14 +1,14 @@
 {
-  "main.css": "/my-react-notes/static/css/main.0dbb096c.chunk.css",
-  "main.js": "/my-react-notes/static/js/main.60744939.chunk.js",
-  "main.js.map": "/my-react-notes/static/js/main.60744939.chunk.js.map",
+  "main.css": "/my-react-notes/static/css/main.bf2bb3b4.chunk.css",
+  "main.js": "/my-react-notes/static/js/main.c1bd76ad.chunk.js",
+  "main.js.map": "/my-react-notes/static/js/main.c1bd76ad.chunk.js.map",
   "runtime~main.js": "/my-react-notes/static/js/runtime~main.e1d76d61.js",
   "runtime~main.js.map": "/my-react-notes/static/js/runtime~main.e1d76d61.js.map",
   "static/js/2.1de47be2.chunk.js": "/my-react-notes/static/js/2.1de47be2.chunk.js",
   "static/js/2.1de47be2.chunk.js.map": "/my-react-notes/static/js/2.1de47be2.chunk.js.map",
   "index.html": "/my-react-notes/index.html",
-  "precache-manifest.4fc2ceb88312fed0007f124bfa13af8c.js": "/my-react-notes/precache-manifest.4fc2ceb88312fed0007f124bfa13af8c.js",
+  "precache-manifest.20e3afe192cf40a27a5bd5916eecc879.js": "/my-react-notes/precache-manifest.20e3afe192cf40a27a5bd5916eecc879.js",
   "service-worker.js": "/my-react-notes/service-worker.js",
-  "static/css/main.0dbb096c.chunk.css.map": "/my-react-notes/static/css/main.0dbb096c.chunk.css.map",
+  "static/css/main.bf2bb3b4.chunk.css.map": "/my-react-notes/static/css/main.bf2bb3b4.chunk.css.map",
   "static/media/logo.svg": "/my-react-notes/static/media/logo.cd2fd5e7.svg"
 }
